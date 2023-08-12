@@ -9,11 +9,11 @@ html {
   }
 
 body {
-    color: var(--text-color);
+    color: var(--color-black);
 }
 
 a {
-    color: var(--text-color);
+    color: var(--color-black);
 }
 
 .visually-hidden {
