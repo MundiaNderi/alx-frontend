@@ -46,15 +46,15 @@ a {
     text-decoration: none;
 }
 
-a[href]:not([href^="tel"]):visited {
+a:visited {
     font-style: italic;
 }
 
-a[href]:not([href^="tel"]):hover {
+a:hover {
     text-decoration: underline;
 }
 
-a[href]:not([href^="tel"]):active {
+a:active {
     background-color: var(--color-light-grey);
 }
 
