@@ -212,6 +212,6 @@ a:active {
     display: block;
 }
 
-.social-link .svg {
-    color: var(--text-color);
+.social-link svg {
+    fill: var(--text-color);
 }
