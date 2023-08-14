@@ -81,7 +81,7 @@ nav .nav-item {
 
 nav .nav-link {
     display: block;
-    padding: calc(var(--nav-item-font-size) / 2) var(--nav-item-font-size);
+    padding: calc(var(--font-size-medium) / 2) var(--font-size-medium);
 }
 
 nav .nav-link:hover {
