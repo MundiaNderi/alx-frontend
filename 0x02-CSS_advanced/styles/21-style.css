@@ -97,13 +97,13 @@ ul.row {
 .col-1-3 {
     width: 33.33%;
     float: left;
-    padding: 0
+    padding: 0.5rem;
 }
 
 .col-1-2 {
     width: 50%;
     float: left;
-    padding: 0;
+    padding: 0.5rem;
 }
 
 
@@ -200,4 +200,9 @@ a:active {
 [class*="col-"]{
     float: left;
     padding: 0.5rem;
+}
+
+.col-1-3,
+.col-1-2 {
+    padding: 0; 
 }
