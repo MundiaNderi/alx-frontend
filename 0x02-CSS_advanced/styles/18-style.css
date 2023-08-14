@@ -79,7 +79,7 @@ body {
 
 .nav .nav-link {
     display: block;
-    padding: calc(var(--font-size-medium) / 2) var(--font-size-medium);
+    padding: calc(0.5 * var(--font-size-medium)) var(--font-size-medium);
 }
 
 .nav .nav-link:hover {
